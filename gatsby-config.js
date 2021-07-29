@@ -3,9 +3,9 @@ module.exports = {
     title: `Mi blog`,
     author: {
       name: `Rubén Lucena`,
-      summary: `desarrollador backend, en formación para desarrollador mobile. Apasionado de la fotografía, vídeojuegos, gatetes y tatuajes.`,
+      summary: `desarrollador backend, en formación para desarrollador mobile.`,
     },
-    description: `A starter blog demonstrating what Gatsby can do.`,
+    description: `Mi blog personal.`,
     siteUrl: `https://blog.rubenlucena.dev/`,
     social: {
       twitter: `RubenLR_`,
