@@ -1,6 +1,6 @@
 ---
 title: Empezamos
-date: "2021-05=07-29T18:00:00.284Z"
+date: "2021-07-29T18:00:00.284Z"
 description: "Empezamos!"
 ---
 
